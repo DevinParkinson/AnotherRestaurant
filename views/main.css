@@ -1,0 +1,11 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #239f93;
+  
+}
